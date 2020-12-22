@@ -1,0 +1,4 @@
+PORT = 4001
+DBLINK = mongodb://127.0.0.1:27017/testing_task
+JWT_SECRET=abcfghistuvwxyz123456789
+JWT_TIMEOUT_DURATION="10d"
